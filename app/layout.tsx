@@ -36,6 +36,10 @@ export const metadata: Metadata = {
   authors: [{ name: "Bimbel Smart" }],
   creator: "Bimbel Smart",
   publisher: "Bimbel Smart",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     type: "website",
     locale: "id_ID",
