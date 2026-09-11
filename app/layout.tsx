@@ -50,7 +50,7 @@ export const metadata: Metadata = {
       "Bimbel Smart membantu murid TK, SD, dan SMP belajar dengan sistem yang terpantau, materi terstruktur, dan teknologi modern. Berdiri sejak 2016 di Pakisaji, Kabupaten Malang.",
     images: [
       {
-        url: "/dokumentasi/logo-bimbel-smart.png",
+        url: "/dokumentasi/logo-bimbel-smart.webp",
         width: 1200,
         height: 630,
         alt: "Bimbel Smart - Bimbingan Belajar Terpercaya",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     title: "Bimbel Smart — Belajar Lebih Terarah, Prestasi Lebih Nyata",
     description:
       "Bimbel Smart membantu murid TK, SD, dan SMP belajar dengan sistem yang terpantau, materi terstruktur, dan teknologi modern.",
-    images: ["/dokumentasi/logo-bimbel-smart.png"],
+    images: ["/dokumentasi/logo-bimbel-smart.webp"],
   },
   robots: {
     index: true,
@@ -116,7 +116,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       },
     ],
     priceRange: "$$",
-    image: "/dokumentasi/logo-bimbel-smart.png",
+    image: "/dokumentasi/logo-bimbel-smart.webp",
     sameAs: [],
   };
 

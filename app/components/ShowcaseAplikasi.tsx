@@ -39,7 +39,7 @@ export default function ShowcaseAplikasi() {
           >
             <div className="glass-card p-6 sm:p-8 rounded-[24px] w-full max-w-sm">
               <Image
-                src="/dokumentasi/mockup-app-murid.png"
+                src="/dokumentasi/mockup-app-murid.webp"
                 alt="Aplikasi Bimbel Smart untuk Murid"
                 width={300}
                 height={400}
@@ -65,7 +65,7 @@ export default function ShowcaseAplikasi() {
           >
             <div className="glass-card p-6 sm:p-8 rounded-[24px] w-full max-w-sm">
               <Image
-                src="/dokumentasi/mockup-app-tentor.png"
+                src="/dokumentasi/mockup-app-tentor.webp"
                 alt="Aplikasi Bimbel Smart untuk Tentor"
                 width={300}
                 height={400}

@@ -87,7 +87,7 @@ export default function Hero() {
               <div className="absolute inset-0 glass-card rounded-[28px] scale-110 -z-10" />
               <div className="glass-card p-6 sm:p-8 rounded-[24px]">
                 <Image
-                  src="/dokumentasi/mockup-app-murid.png"
+                  src="/dokumentasi/mockup-app-murid.webp"
                   alt="Aplikasi Bimbel Smart untuk Murid"
                   width={400}
                   height={500}

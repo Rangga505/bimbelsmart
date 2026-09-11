@@ -12,22 +12,22 @@ interface GalleryItem {
 
 const galleryItems: GalleryItem[] = [
   {
-    src: "/dokumentasi/kegiatan1.png",
+    src: "/dokumentasi/kegiatan1.webp",
     alt: "Kegiatan belajar mengajar di Bimbel Smart",
     caption: "Sesi Belajar Kelas",
   },
   {
-    src: "/dokumentasi/kegiatan2.jpg",
+    src: "/dokumentasi/kegiatan2.webp",
     alt: "Kegiatan seru Bimbel Smart",
     caption: "Kegiatan Seru",
   },
   {
-    src: "/dokumentasi/kegiatan3.jpg",
+    src: "/dokumentasi/kegiatan3.webp",
     alt: "Suasana bimbingan belajar",
     caption: "Suasana Bimbel",
   },
   {
-    src: "/dokumentasi/FOTOBARENG.png",
+    src: "/dokumentasi/FOTOBARENG.webp",
     alt: "Foto kebersamaan tim dan murid Bimbel Smart",
     caption: "Kebersamaan Kami",
   },

@@ -46,7 +46,7 @@ export default function TentangKami() {
           >
             <div className="glass-card p-4 sm:p-6 rounded-[24px]">
               <Image
-                src="/dokumentasi/tentangkami.png"
+                src="/dokumentasi/tentangkami.webp"
                 alt="Suasana belajar mengajar di Bimbel Smart"
                 width={600}
                 height={400}

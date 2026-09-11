@@ -50,7 +50,7 @@ export default function Navbar() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2 cursor-pointer">
           <Image
-            src="/dokumentasi/logo-bimbel-smart.png"
+            src="/dokumentasi/logo-bimbel-smart.webp"
             alt="Bimbel Smart Logo"
             width={56}
             height={56}

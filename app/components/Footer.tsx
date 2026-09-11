@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="sm:col-span-2 lg:col-span-2">
             <div className="flex items-center gap-3">
               <Image
-                src="/dokumentasi/logo-bimbel-smart.png"
+                src="/dokumentasi/logo-bimbel-smart.webp"
                 alt="Bimbel Smart Logo"
                 width={36}
                 height={36}
