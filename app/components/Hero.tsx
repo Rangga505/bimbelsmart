@@ -8,7 +8,7 @@ const WHATSAPP_URL = "https://wa.me/6281615687850";
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center overflow-hidden pt-20">
+    <section className="relative min-h-[calc(100vh-5rem)] lg:min-h-screen flex items-center overflow-hidden pt-24 pb-12 lg:pt-20 lg:pb-0">
       <div className="absolute inset-0 -z-10">
         <div className="absolute top-20 -left-32 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
         <div className="absolute bottom-20 right-0 w-80 h-80 bg-accent/15 rounded-full blur-3xl" />
@@ -35,7 +35,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.3, duration: 0.6 }}
-              className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight text-balance"
+              className="font-heading text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-balance"
             >
               Belajar Lebih{" "}
               <span className="text-primary">Terarah</span>, Prestasi Lebih{" "}

@@ -66,7 +66,7 @@ export default function Testimoni() {
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0, x: -30 }}
               transition={{ duration: 0.4 }}
-              className="glass-card p-8 sm:p-10 text-center"
+              className="glass-card p-6 sm:p-8 md:p-10 text-center"
             >
               <Quote
                 size={40}
