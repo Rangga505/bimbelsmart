@@ -123,6 +123,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="id" className={`${poppins.variable} antialiased`}>
       <head>
+        <meta name="google-site-verification" content="UHhPN6QPbDBRVqCpFyt6upx-4r0YVogIRrd4COevyoc" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
